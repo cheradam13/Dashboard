@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+## Проект: Dashboard 📈💰📊
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+**Dashboard** — это одностраничное vue-приложение со статистикой заказов, клиентов и активных проектов, а также графиком прибыли и диаграммой источников доходов с использованием chart js и vue-chartjs.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+🌐 Просмотр:
+[Dashboard](https://cheradam13.github.io/Dashboard/)
+
+### 🚀 Установка:
+
+Установка зависимостей:
+```
+npm install
+```
+Запуск сервера разработки:
+```
+npm run dev
+```
+Запуск production сборки:
+```
+npm run build
+```
+
+### 🛠️ Технологии:
+
+- [Vue](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Chart js](https://www.chartjs.org/)
+- [Vue-chartjs](https://vue-chartjs.org/)
