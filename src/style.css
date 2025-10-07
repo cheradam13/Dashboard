@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@custom-variant dark (&:where([data-theme=dark],[data-theme=dark] *));
+@theme {
+    --font-display: "Inter", "sans-serif";
+    --color-primary: #4635B1;
+    --color-backgroundDark: #141121;
+};
+
+body {
+    font-family: "Inter", "sans-serif";
+}
